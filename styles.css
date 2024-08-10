@@ -1,31 +1,31 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: #f4f4f4;
+    background-color: lightblue; /* Change the background color to light blue */
 }
 
 h1, h2 {
-    color: #333;
+    color: darkblue; /* Change heading colors to dark blue */
 }
 
 form {
-    background-color: #fff;
+    background-color: white;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Make shadow darker */
 }
 
 label {
     display: block;
     margin-bottom: 5px;
+    color: darkblue; /* Change label colors to dark blue */
 }
 
 input, textarea {
     width: 100%;
-    padding: 8px;
+    padding: 10px; /* Increase padding */
     margin-bottom: 10px;
-    border: 1px solid #ccc;
+    border: 2px solid darkblue; /* Make borders dark blue */
     border-radius: 4px;
+    background-color: lightyellow; /* Change input background color to light yellow */
 }
-/* Force update */
-/* Force update */
